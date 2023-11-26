@@ -1,0 +1,44 @@
+body{
+    
+   background-color: #f5e0dc;
+
+}
+.header_div{
+    background-color: #d6d6d6;
+    color: red;
+}
+.header_div p{
+    font-family: 'Nunito', sans-serif;
+    color: #0707f7;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 3px;
+    width: 130px;
+    font-weight: bolder;
+}
+.header_div h2{
+    font-family: 'Roboto Slab', serif;
+    color: black;
+}
+.copy_right_footer{
+    background-color: gainsboro;
+    padding-top:10px;
+    padding-bottom: 10px;
+    width: 100%;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+    color: #292828;
+    text-align: center;
+    text-shadow: 5px 5px 5px #6e6d6d;
+}
+#not_visible{
+    visibility: hidden;
+}
